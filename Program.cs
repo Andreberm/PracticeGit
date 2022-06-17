@@ -10,4 +10,9 @@ namespace ProGitForProgrammers
             Console.WriteLine("I just added this in the command line repo");
         }
     }
+
+    public class Calculator
+    {
+        
+    }
 }
